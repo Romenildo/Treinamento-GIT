@@ -45,10 +45,10 @@ aprendi isso [aqui](https://github.com/urielcaire/aprendamd/blob/master/README.m
 
 # tabelas
 |  Numero       |    item       | precos  |
-| ------------- |:-------------:| -----:|
-|      001      | computador    | $1600 |
-|      002      |  mouse        |   $12 |
-|      003      |  teclado      |   $40 |
+| ------ |:-------------:| -----:|
+|      001      | computador          | $1600 |
+|      002      |  mouse            |   $12 |
+|      003      |  teclado                          |   $40 |
 
 
 # Adicionar imagem
