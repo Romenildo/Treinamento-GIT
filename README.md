@@ -4,6 +4,15 @@ Aprender e testar a mexer com o github
 # MARKDOWN  
    Nome dado a modificação do read.me      link: https://github.com/urielcaire/aprendamd
 
+# Cabeçalhos
+## 2
+### 3
+#### 4
+##### 5  
+###### 6
+
+
+
 **NEGRITO**  
 *italico*  
 **_misturado_**  
@@ -16,11 +25,11 @@ Aprender e testar a mexer com o github
 
 
 # tabelas
-| NUmero       |    item        | precos  |
+|  Numero       |    item       | precos  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|      001      | computador    | $1600 |
+|      002      |  mouse        |   $12 |
+|      003      |  teclado      |   $40 |
 
 
 # Adicionar imagem
