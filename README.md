@@ -54,3 +54,9 @@ aprendi isso [aqui](https://github.com/urielcaire/aprendamd/blob/master/README.m
 # Adicionar imagem
 
 ![](https://github.com/Romenildo/Treinamento-GIT/blob/master/img.gif)
+
+
+
+
+### Emogis
+[link](https://emojiterra.com/pt/) para emojis 
