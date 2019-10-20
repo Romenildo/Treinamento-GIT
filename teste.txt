@@ -1,1 +1,9 @@
 #include <stdio.h>
+
+teste para 
+utilização do arquivo
+txt 
+com codigos
+
+for i in range(0,10,2)
+  print(i)
