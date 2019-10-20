@@ -19,9 +19,28 @@ Aprender e testar a mexer com o github
 ~~ricado~~  
 
 # Listas 
+## Não ordenadas
 * esse  
 - esse 2
 + ou esse
+
+## ordenadas
+1. DICAS   
+usa 3 espaçamentos apos o nome que criar um espaço a mais  
+tipo uma observação igual essa!  
+2. E so isso
+
+
+
+
+# tabelas azuis
+```
+adicionar nessa forma azul é so colocar 3 acentos
+utilizado em codigos
+```
+# links
+## colocar um nome clicavel
+aprendi isso [aqui](https://github.com/urielcaire/aprendamd/blob/master/README.md) muito bom
 
 
 # tabelas
