@@ -1,9 +1,7 @@
-#include <stdio.h>
+Modificar o codigo nessa parte
 
-teste para 
-utilização do arquivo
-txt 
-com codigos
+essa 
 
-for i in range(0,10,2)
-  print(i)
+essa 
+
+teste
