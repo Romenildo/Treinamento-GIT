@@ -7,7 +7,7 @@ Aprender e testar a mexer com o github
 **NEGRITO**  
 *italico*  
 **_misturado_**  
-~~ricado]]  
+~~ricado~~  
 
 # Listas 
 * esse  
