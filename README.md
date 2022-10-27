@@ -1,3 +1,5 @@
+
+![Moe-counter](https://count.getloli.com/get/@Romenildo.Treinamento-GIT.github?theme=rule34)
 # Treinamento-GIT
 Aprender e testar a mexer com o github
 
