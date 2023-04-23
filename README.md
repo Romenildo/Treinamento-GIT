@@ -1,4 +1,13 @@
 
+
+# links Uteis
+- badges: https://github.com/Ileriayo/markdown-badges   
+- Icons: https://heroicons.com   
+- loadings icons: https://loading.io   
+- fonts: https://fonts.google.com/specimen/Poppins   
+- vetores free: https://www.drawkit.com   
+
+# points
 <picture>
   <source
     media="(prefers-color-scheme: light)"
@@ -18,7 +27,7 @@
   />
 </picture>
 
-
+#counter
 
 ![Moe-counter](https://count.getloli.com/get/@Romenildo.Treinamento-GIT.github?theme=rule34)
 # Treinamento-GIT
